@@ -1,6 +1,0 @@
-
-# Quantum AI Simulation
-
-We use IBM Quantum Experience to build a 2-qubit entangled circuit. This simulates parallel evaluation of states, aiding tasks like drug discovery where multiple molecular structures are explored.
-
-Quantum optimization algorithms like QAOA help reduce the time for complex AI decisions.
