@@ -1,0 +1,26 @@
+
+# Smart Agriculture System Proposal
+
+**Objective**: Develop a smart farming system that leverages AI and IoT to enhance crop yield prediction, water usage, and resource planning.
+
+## Required Sensors:
+- Soil Moisture Sensor
+- Temperature Sensor
+- Humidity Sensor
+- Light Intensity Sensor (LDR)
+- pH Sensor
+
+## Proposed AI Model:
+A Random Forest Regression model is proposed to predict crop yield based on multi-sensor input data. The model is trained using historical data and sensor readings.
+
+## Data Flow Summary:
+1. Sensors collect real-time environmental data.
+2. Microcontroller (Arduino) aggregates sensor signals.
+3. Edge device (Raspberry Pi) processes and forwards to cloud AI model.
+4. AI model predicts optimal watering schedules and crop yield.
+5. Dashboard presents actionable insights to farmers.
+
+## Benefits:
+- Optimizes water and fertilizer usage.
+- Improves yield forecasting.
+- Enables remote monitoring via dashboard.
