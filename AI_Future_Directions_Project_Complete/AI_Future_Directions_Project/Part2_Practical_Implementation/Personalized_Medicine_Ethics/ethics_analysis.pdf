@@ -1,0 +1,11 @@
+
+# Ethics Analysis in Personalized Medicine
+
+AI algorithms trained on genomic datasets like TCGA may underrepresent certain ethnic groups, leading to biased treatment recommendations. This risks unequal healthcare outcomes.
+
+## Strategies for Fairness:
+- Curate diverse datasets including underrepresented groups.
+- Implement bias detection and mitigation techniques during model training.
+- Promote transparency in AI decision-making processes.
+
+These practices ensure AI applications in medicine are equitable, effective, and inclusive.

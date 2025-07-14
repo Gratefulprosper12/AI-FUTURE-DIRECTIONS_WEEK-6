@@ -1,0 +1,33 @@
+
+# Part 1: Theoretical Analysis
+
+## Q1: Edge AI vs Cloud AI
+
+**Edge AI** processes data locally on the device rather than relying on cloud servers. This approach significantly reduces latency because data doesn’t need to travel long distances for inference. It also enhances privacy since sensitive information doesn’t leave the device.
+
+**Example**: Autonomous drones use Edge AI to detect obstacles and make navigation decisions in real-time without needing cloud connectivity. This ensures faster responses and minimizes the risk of data leaks.
+
+---
+
+## Q2: Quantum AI vs Classical AI in Optimization
+
+**Classical AI** relies on traditional binary computing, which is limited in solving complex optimization problems due to high computational requirements. **Quantum AI**, on the other hand, leverages qubits and superposition to explore multiple solutions simultaneously.
+
+**Industries Benefiting from Quantum AI**:
+- Pharmaceuticals (drug discovery)
+- Logistics (route optimization)
+- Finance (portfolio optimization)
+
+Quantum AI can drastically reduce the time needed to find optimal solutions compared to classical approaches.
+
+---
+
+## Q3: Human-AI Collaboration in Healthcare
+
+AI assists radiologists by identifying patterns in medical images, enabling faster and more accurate diagnoses. For nurses, AI-powered chatbots and diagnostic tools streamline patient monitoring and triage.
+
+**Impact**:
+- Radiologists shift from manual detection to strategic decision-making.
+- Nurses benefit from AI-assisted monitoring and patient interaction tools.
+- Improves healthcare delivery, especially in underserved regions.
+
